@@ -10,7 +10,7 @@ Here is data up to 2016. Let's imagine it's December 2016 and you're planning a 
 The data set contains the abbreviation ESRB (Entertainment Software Rating Board) - this is an association that determines the age rating of computer games. The ESRB evaluates game content and assigns it an appropriate age rating, such as Mature, Young Children, or Teen.
 
 
-# Data Description
+## Data Description
 * Name - the name of the game
 * Platform - platform
 * Year_of_Release — year of release
